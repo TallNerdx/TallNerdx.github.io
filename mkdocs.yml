@@ -50,9 +50,9 @@ nav:
 extra:
   social:
     - icon: fontawesome/brands/linkedin
-      link: linkedin.com/in/chukwuebuka-ukatu/
-    - icon: fontawesome/brands/GitHub
-      link: https://github.com/TallNerdx
+      link: 'linkedin.com/in/chukwuebuka-ukatu/'
+    - icon: fontawesome/brands/github-alt
+      link: 'https://github.com/TallNerdx'
 
 markdown_extensions:
   - attr_list
