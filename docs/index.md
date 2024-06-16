@@ -39,6 +39,7 @@ Aside from this, I love problems related to information design and architecture.
 - HTML
 - CSS
 - Markdown
+- Javascript 
   
 I am also good at docs as code tools like:
 
@@ -46,8 +47,9 @@ I am also good at docs as code tools like:
 - MkDocs Material
 - MkDocs
 - ReadMe
+- GitBook 
   
-Also, I have extensive experience working for clients with bylines in top companies like [Aviator](https://aviator.co/), [Vultr](https://www.vultr.com/docs/how-to-install-anaconda-on-a-windows-server-using-vultr/), and others. You can review my [resume](https://docs.google.com/document/d/1qqmz9wfL6_iZfzzJZxqD9IX9oYWJNdk1SAUG947lcJI/edit) and [portfolio](Portfolio/start%20here.md) to learn more about my experience.
+Also, I have extensive experience working for clients with bylines in top companies like [Aviator](https://aviator.co/), [Vultr](https://www.vultr.com/docs/how-to-install-anaconda-on-a-windows-server-using-vultr/), and others. You can review my [resume](https://docs.google.com/document/d/1XLBJUeo1aHR0WqqiqCeR2dmcZRXQgGik3Irp4d6vBws/edit?usp=drivesdk) and [portfolio](Portfolio/start%20here.md) to learn more about my experience.
 
 ## **Like What I Do and Would Love to Reach Out?**
 
